@@ -71,7 +71,7 @@ For a deeper understanding of creating conversational chatbots, consider referri
 
 
 #### Comments on version 2 
-This project in particular (specifically version 2 of the chatbot) tries to implement some custom-made solutions when possible. Especially version 2, where the prompt and conversation history are managed exclusively using self-written code.
+This project in particular tries to implement some custom-made solutions when possible. In version 2, the prompt and conversation history are managed exclusively using self-written code.
 
 See [requirements.txt](requirements.txt) for dependencies.
 
