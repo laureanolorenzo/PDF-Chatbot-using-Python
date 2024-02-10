@@ -9,7 +9,7 @@ Ensure that Python is installed on your pc.
 Clone the repository, running the following command on your terminal (make sure to have [git](https://git-scm.com/downloads) installed as well):
 
 ```bash
-git clone https://github.com/REPONAME
+git clone https://github.com/laureanolorenzo/PDF-Chatbot-using-Python.git
 ```
 
 Once you set up your local repository, navigate to the root folder and install the required packages, running:
